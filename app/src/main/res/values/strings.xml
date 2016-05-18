@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">草根农村金融</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_tip_title">更新提示</string>
+    <string name="update_tip_button_cancel">取消</string>
+    <string name="update_tip_button">更新</string>
+    <string name="error_page_hint">当前网络不给力</string>
+    <string name="error_http_faild">当前网络不给力</string>
+
+</resources>
